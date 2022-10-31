@@ -1,0 +1,13 @@
+Student Management System is a internet based Web Portal that aims at providing information to all levels of management system for a College in handling student related tasks. This system can be used as a information management system for the college.
+
+
+
+This Project contains Login Module,Admin Module,Subjects Module and. We can easily retrieve the information related to any department of the college.
+
+Modules of Student Management System
+Login Module
+Admin Module
+Faculty Module
+Students Module
+Attendance Module
+Marks Module
