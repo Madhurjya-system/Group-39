@@ -1,6 +1,6 @@
 Student Management System is a internet based Web Portal that aims at providing information to all levels of management system for a College in handling student related tasks. This system can be used as a information management system for the college.
 
-
+The “Attendance” tab on our website will show students their attendance percentage. It will also notify students when their attendance percentage touches the periphery of the required criteria. The notification will report to the student that their college attendance is quite low, and they need to increase their percentage or suffer consequences. Not only that, the teachers/professors of our college will also have access to monitor student attendance on a regular basis.
 
 This Project contains Login Module,Admin Module,Subjects Module and. We can easily retrieve the information related to any department of the college.
 
