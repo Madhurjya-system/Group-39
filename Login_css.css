@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0;
+    background-color: royalblue
+    }
+.header{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: white;
+}
+.header p{
+    font-size: 15px;
+    color: white;
+}
+.hero{
+    height: 100%;
+    widows: 100%;
+}
